@@ -11,7 +11,7 @@ body{
 main{
   background-color: #fff;
   max-width: 416px;
-  border: 1rem;
+  border-radius: 1rem;
 }
 
 main img{
