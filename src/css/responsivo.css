@@ -1,0 +1,21 @@
+@media screen and (max-width: 650px){
+  body{
+    background: url(../image/pattern-background-mobile.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+}
+
+@media screen and (max-width: 980px){
+  sectiton{
+    padding: 0 3rem;
+  }
+}
+
+@media screen and (max-width: 1200px){
+  body{
+    background: url(../image/pattern-background-desktop.svg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+}
